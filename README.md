@@ -17,4 +17,4 @@
 <p>Next.js Frontend: A web application built with Next.js, React, and Tailwind CSS</p>
 <p>Python API: A Flask API that serves the ML model for sentiment prediction</p>
 <br>
-visit : https://v0-sentiment-analysis-app-three.vercel.app/
+visit : https://sentiment-analysis-app-xi.vercel.app/
