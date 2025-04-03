@@ -14,7 +14,7 @@
 <dd>The project consists of two main components:</dd>
 </dl>
 <br>
-<p>Next.js Frontend: A web application built with Next.js, React, and Tailwind CSS</p>
+<p>Next.js Frontend: A web application built with Python, Typescript and Tailwind CSS</p>
 <p>Python API: A Flask API that serves the ML model for sentiment prediction</p>
 <br>
 visit : https://sentiment-analysis-app-xi.vercel.app/
